@@ -89,7 +89,9 @@ The main features of LPC2148 include the following.
 
 
 
-## Output  :
+
+
+## OUTPUT  :
  
  
  
